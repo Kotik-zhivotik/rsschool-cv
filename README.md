@@ -1,1 +1,1 @@
-# rsschool-cv
+(https://Kotik-zhivotik.github.io/rsschool-cv/cv)
