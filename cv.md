@@ -5,6 +5,7 @@
 ## __Contacts__ 
 * _Discord:_ Alena (@kotik-zhivotik)
 * _email:_ super-alya@mail.ru
+
 ## Info 
 
 > Depressed zillenial, who wants to become someone oneday

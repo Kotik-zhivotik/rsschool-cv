@@ -1,1 +1,1 @@
-(https://Kotik-zhivotik.github.io/rsschool-cv/cv)
+https://Kotik-zhivotik.github.io/rsschool-cv/cv
