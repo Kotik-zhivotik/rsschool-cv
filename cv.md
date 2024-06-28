@@ -11,4 +11,5 @@
 > Tomsk State University Biological Institute Soil Science
 ## Work experience
 > Pizzamaker _2021-2024_, Cooker _2024-to present_ 
-[__My one and only project__](https://github.com/Kotik-zhivotik/rsschool-cv.git)
+## Projects
+> [__CV__](https://github.com/Kotik-zhivotik/rsschool-cv.git)
